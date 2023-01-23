@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Mohave", sans-serif;
+  background-image: linear-gradient(#F9F7F7,#3F72AF);
+}
+
+hr{
+  margin:100px auto 100px auto;
+  border-style: none ;
+  border-top-style: dotted ;
+  border-width: 15px;
+  width:20%;
+  color: #112D4E;
+  
+}
+
+h1 {
+  margin: auto;
+  font-size: 5rem;
+  font-family: "Pacifico", cursive;
+  line-height: 2;
+  color: #F05454;
+}
+
+.subtittle{
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h2{
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+
+.top-container {
+  /* background-color: #E7F6F2; */
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  /*background-color: #A5C9CA;*/
+}
+
+.bottom-container {
+  /*background-color: #395B64;*/
+}
+
+
+.cloud1 {
+  position: absolute;
+  left: 65%;
+  top: 5%;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+}
+
+.skill-row{
+  margin: 50px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  
+}
+
+.profile{
+  margin: auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.profile-img{
+  width:25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.webDev-img{
+  width:25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.python-img{
+  width:25%;
+  float: right;
+  margin-left: 20px;
+}
+
