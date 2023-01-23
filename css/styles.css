@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: "Mohave", sans-serif;
   background-image: linear-gradient(#F9F7F7,#3F72AF);
+  font-size: 150%;
 }
 
 hr{
